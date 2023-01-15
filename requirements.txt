@@ -15,4 +15,4 @@ seaborn
 statsmodels
 urllib3
 matplotlib
-
+nltk
